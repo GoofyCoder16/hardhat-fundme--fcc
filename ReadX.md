@@ -31,4 +31,4 @@ git push origin main
 
 __ERRORS__
 passwd field wont show up in recent version---just put it
-passwd wont accept---create token and save it on windows credentials or use linux
+passwd wont accept---create token with permissions and save it on windows credentials or use linux
